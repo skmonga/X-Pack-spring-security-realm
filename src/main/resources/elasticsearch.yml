@@ -1,0 +1,8 @@
+#xpack custom realm configuration specifically for spring security
+
+xpack.security:
+  authc:
+    realms:
+      springsecurity:
+        type: springsecurity
+        order: 0
