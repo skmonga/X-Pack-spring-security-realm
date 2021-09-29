@@ -10,7 +10,7 @@
 	<properties>
 		<es.version>6.8.17</es.version>
 		<versions.lucene>6.4.2</versions.lucene>
-		<versions.log4j>2.8.2</versions.log4j>
+		<versions.log4j>2.13.2</versions.log4j>
 	</properties>
 
 	<dependencies>
